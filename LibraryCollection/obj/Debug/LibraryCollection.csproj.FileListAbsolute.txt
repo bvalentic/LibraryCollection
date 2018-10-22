@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\bin\Debug\LibraryCollection.exe.config
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\bin\Debug\LibraryCollection.exe
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\bin\Debug\LibraryCollection.pdb
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\obj\Debug\LibraryCollection.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\obj\Debug\LibraryCollection.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\obj\Debug\LibraryCollection.exe
+C:\Users\bvalentic\source\repos\LibraryCollection\LibraryCollection\obj\Debug\LibraryCollection.pdb
